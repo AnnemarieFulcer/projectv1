@@ -148,3 +148,11 @@ h4, h2, h1{
 button{
     font-family:"Harrington";
 }
+
+img.imgbanner{
+
+    height: 150px;
+    width: 100%;
+}
+
+
